@@ -1,4 +1,4 @@
-<em> # GameWorld Club</em>
+# GameWorld Club
 
 
 GameWorldClub es una página web dedicada a la venta de consolas y videojuegos de antiguos y ultimos modelos.
