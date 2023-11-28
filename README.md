@@ -7,7 +7,10 @@ Está dedicada principalmente al público "gamer" pero abierta a todo publico, c
 Tecnologías utilizadas :     Visual studio code - html - css
 
 
-![descripción de la imágen](![prototipo](https://github.com/LautaroG1/LautaroG1.github.io/assets/133700577/9fe24628-d07e-404b-a7ea-1bdfc019f884)
+Prototipo de sitio web
+<br>
+
+(![prototipo](https://github.com/LautaroG1/LautaroG1.github.io/assets/133700577/9fe24628-d07e-404b-a7ea-1bdfc019f884)
 
 
 
