@@ -1,5 +1,5 @@
-# LautaroG1.github.io
-Landing page - Lautaro Gallardo - GameWorldClub
+<em> # GameWorld Club</em>
+
 
 GameWorldClub es una página web dedicada a la venta de consolas y videojuegos de antiguos y ultimos modelos.
 Está dedicada principalmente al público "gamer" pero abierta a todo publico, cuenta con suscripción a la plataforma y redes sociales donde se esta entregando diferentes tipos de información, ya sea de promociónes, productos o datos de la cultura "gamer".
@@ -7,4 +7,9 @@ Está dedicada principalmente al público "gamer" pero abierta a todo publico, c
 Tecnologías utilizadas :     Visual studio code - html - css
 
 
-Prototipo
+![descripción de la imágen](![prototipo](https://github.com/LautaroG1/LautaroG1.github.io/assets/133700577/9fe24628-d07e-404b-a7ea-1bdfc019f884)
+
+
+
+
+
